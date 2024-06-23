@@ -1,0 +1,9 @@
+.main-container{
+    display: flex;
+}
+
+.product{
+    width: 70%;
+    border-right: 1px solid gray;
+    margin: 0px 50px;
+}
